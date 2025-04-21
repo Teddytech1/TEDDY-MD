@@ -12,7 +12,7 @@ global.ytdl = "https://ytdl.giftedtech.web.id"; // You Can Change this...
 global.giftedCdn = "https://cdn.giftedtech.web.id";
 global.sessionServer = "https://creds.giftedtech.web.id";
 global.giftedRepo = "https://github.com/Teddytech1/TEDDY-XMD";
-global.giftedApiRepo = "https://api.github.com/repos/mauricegift/gifted-md";
+global.giftedApiRepo = "https://api.github.com/repos/Teddytech1/TEDDY-XMD";
 
 
  
