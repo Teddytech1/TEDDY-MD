@@ -38,8 +38,8 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Active. 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
-BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.web.id/file/gifted-md.jpg", // You can Replace with yours...
+BOT_NAME: process.env.BOT_NAME || "𝐓𝐄𝐃𝐃𝐘-𝐗𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
+BOT_PIC: process.env.BOT_PIC || "https://files.catbox.moe/19t50y.jpg", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "Teddy creates things that creates other things",
