@@ -5,7 +5,7 @@
 
 ## CONNECT TO WHATSAPP:
 - **STAR REPO AND THEN** [FORK IT](https://github.com/Teddytech1/TEDDY-XMD/fork) 
-- **GET SESSION ID USING** [PAIRING CODE](https://timnasa-session-id-etyy.onrender.com) 
+- **GET SESSION ID USING** [PAIRING CODE](https://teddy-xmd-session.onrender.com/) 
 
 ---
 
