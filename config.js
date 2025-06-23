@@ -7,7 +7,7 @@ const conf = {
   AUTO_READ_DM: process.env.AUTO_READ_DM || "off",
   AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || "off",
   ADM: process.env.ANTI_DELETE || "on",
-  ON: process.env.OWNER_NAME || "TIMNASA-TXMD",
+  ON: process.env.OWNER_NAME || "TEDDY-TECH",
   ANTICALL: process.env.ANTICALL || "off",
   ANTIPROMOTE: process.env.ANTIPROMOTE || "off",
   ANTIDEMOTE: process.env.ANTIDEMOTE || "off",
