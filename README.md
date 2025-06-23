@@ -30,10 +30,10 @@
 #### 1. Clone the repository:
 
 ```bash
-git clone https://timnasa-session-id-etyy.onrender.com.git
+git clone https://teddy-xmd-session.onrender.com.git
 ```
 ```bash
-cd Timnasa-Txmd
+cd TEDDY-XMD
 ```
 ```bash
 npm install
